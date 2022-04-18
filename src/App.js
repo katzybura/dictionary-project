@@ -9,7 +9,7 @@ export default function App() {
   <h1>Dictionary</h1>
       </header>
       <Dictionary />
-      <footer>Open Source Code by Katherine Zybura</footer>
+      <footer><a href="https://github.com/katzybura/dictionary-project" target="_blank" rel="noreferrer">Open Source Code</a> by Katherine Zybura</footer>
     </div>
   );
 }
