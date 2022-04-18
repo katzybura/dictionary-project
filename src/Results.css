@@ -1,13 +1,17 @@
 h2{
     font-size: 32px;
 }
+li{
+    list-style: none;
+    font-style: italic;
+}
 .Results{
     text-align: left;
 }
 .Box{
     background: white;
     max-width: 850px;
-    margin: 20px auto;
+    margin: 30px auto;
     border-radius: 10px;
-    padding: 20px;
+    padding: 30px;
 }

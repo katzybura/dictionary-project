@@ -8,7 +8,7 @@ return (
         {props.meaning.definitions.map(function(definition, index){
             return(
                 <div key={index}>
-           <p><strong>Definition: </strong>{definition.definition}
+           <p>{definition.definition}
            <br/>
         <em>{definition.example}</em> 
        <br/>
