@@ -1,3 +1,22 @@
 .Dictionary{
     text-align: center;
 }
+.SearchButton{
+    color: white;
+    background: #38598b;
+    border-radius: 15px;
+    border: none;
+    padding: 5px 20px;
+    transition: all 200ms ease-in-out;
+}
+.SearchButton:hover{
+    opacity: .5;
+}
+.SearchForm{
+    border-radius: 15px;
+    border: 2px solid #38598b;
+    padding: 3px 20px;
+}
+.SearchEngine{
+    margin-top: 50px;
+}
